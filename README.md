@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="./assets/punpun-gif" width="25%" align="right" />
 
 <!--
 **wlfyx/wlfyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
